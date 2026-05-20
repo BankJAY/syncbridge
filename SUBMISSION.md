@@ -30,7 +30,7 @@ MiMo is a strong fit because the product depends on summarization, action extrac
 - submission-ready product positioning
 
 ## GitHub
-Add your personal GitHub repo URL here.
+https://github.com/BankJAY/syncbridge
 
 ## Demo
-Add your deployed demo URL here.
+https://syncbridge-nu.vercel.app

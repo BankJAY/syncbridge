@@ -95,7 +95,7 @@ npm run build
 1. Push this repo to your personal GitHub
 2. Import the repository in Vercel
 3. Framework preset: **Vite**
-4. Build command: `npm run build`
+4. Build command: `npm install && npm run build`
 5. Output directory: `dist`
 6. Deploy
 
@@ -109,6 +109,10 @@ For production deployment:
 ```bash
 vercel --prod
 ```
+
+Live deployment:
+- Demo: `https://syncbridge-nu.vercel.app`
+- Repository: `https://github.com/BankJAY/syncbridge`
 
 ## Suggested positioning
 
